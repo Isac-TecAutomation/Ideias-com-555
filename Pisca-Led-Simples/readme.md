@@ -8,32 +8,32 @@
 
 - Os Materiais usados no Exemplo:
 
--1 - Protoboard
--1 - CI NE555
--1 - Resistor de 10k
--1 - Resistor de 4K 
--1 - Resistor de 220 ohms
--1 - fonte de 5V
--1 - Capacitor de 100 uF
--1 - Capacitor Unipolar de 10 nf
--1 - Led / cor de sua preferencia
+- # 1 - Protoboard
+- # 1 - CI NE555
+- # 1 - Resistor de 10k
+- # 1 - Resistor de 4K 
+- # 1 - Resistor de 220 ohms
+- # 1 - fonte de 5V
+- # 1 - Capacitor de 100 uF
+- # 1 - Capacitor Unipolar de 10 nf
+- # 1 - Led / cor de sua preferencia
 
 ***************** Cálculos Importantes *****************************
 
 
--# Frequência:
+- # Frequência:
 
--F = 1,44 / (R1 + R2) * C 
+- # F = 1,44 / (R1 + R2) * C 
 
--C - Capacitor  [F]
--F - Frequência [Hz] 
--R1 - resistor 1 [Ohms] 
--R2 - resistor 2 [Ohms] 
+- # C - Capacitor  [F]
+- # F - Frequência [Hz] 
+- # R1 - resistor 1 [Ohms] 
+- # R2 - resistor 2 [Ohms] 
 
 **************** Importante *****************************************
 
 - A frequencia Escolhida no Exemplo foi 1,02 [Hz]
 o que dá uma frequência de 970 [ms] por pulso
 
-- o pulso é dado tanto pela borda de subida + a de descida,
-ou seja pro led formarum ciclo de liga/desliga demora 970 [ms]
+- o pulso é dado tanto pela borda de subida e descida,
+ou seja pro led formar um ciclo de liga/desliga demora 970 [ms]
