@@ -1,7 +1,7 @@
-************ Objetivo *****************
+************ Objetivo *******************************************
 
 - Pisca Led Utilizando o circuito do modo Astavel no CI
-NE5555
+NE555
 
 ************** Pisca Led Simples para o 555 **********************
 
