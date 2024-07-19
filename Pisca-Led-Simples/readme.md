@@ -1,8 +1,8 @@
-- #           * Pisca Led Simples para o 555 *
+- #           Pisca Led Simples para o 555 
 
 - https://www.tinkercad.com/things/2MCGd7Lm3an-exemplo-pisca-led-555
 
-- # ********************** Sobre *************************************
+- # Sobre 
 
 - O ciruito se baseia no modo Astavel:
 
@@ -18,7 +18,7 @@
 - 1 - Capacitor Unipolar de 10 nf
 - 1 - Led / cor de sua preferencia
 
-- # ***************** Cálculos Importantes *****************************
+- # Cálculos Importantes 
 
 
 - Frequência:
@@ -30,7 +30,7 @@
 - R1 - resistor 1 [Ohms] 
 - R2 - resistor 2 [Ohms] 
 
-- # **************** Importante *****************************************
+- # Importante 
 
 - A frequencia Escolhida no Exemplo foi 1,02 [Hz]
 o que dá uma frequência de 970 [ms] por pulso
