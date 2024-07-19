@@ -1,4 +1,4 @@
-- # ************** Pisca Led Simples para o 555 **********************
+- #           * Pisca Led Simples para o 555 *
 
 - https://www.tinkercad.com/things/2MCGd7Lm3an-exemplo-pisca-led-555
 
