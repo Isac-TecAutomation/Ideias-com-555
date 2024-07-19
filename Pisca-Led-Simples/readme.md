@@ -37,3 +37,8 @@ o que dá uma frequência de 970 [ms] por pulso
 
 - o pulso é dado tanto pela borda de subida e descida,
 ou seja pro led formar um ciclo de liga/desliga demora 970 [ms]
+
+
+- # Referências
+
+- https://eletronworld.com.br/555-astavel/
