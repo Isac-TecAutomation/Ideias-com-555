@@ -53,7 +53,7 @@ por um tempo determinado.
 
 - # Importante 
 
-- Sempre montar o circuito sem ligar-lo a fonte pode ocorrer de queimar o CI
+- Sempre montar o circuito sem ligar-lo a fonte, pode ocorrer de queimar o CI
 
 - # Referências
 
