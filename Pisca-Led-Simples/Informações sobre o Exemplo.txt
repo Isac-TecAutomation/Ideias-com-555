@@ -33,7 +33,7 @@ R2 - resistor 2 [Ohms]
 **************** Importante *****************************************
 
 - A frequencia Escolhida no Exemplo foi 1,02 [Hz]
-o que dá um período de 970 [ms]
+-o que dá um período de 970 [ms]
 
 - o pulso é dado tanto pela borda de subida + a de descida,
 ou seja pro led formar um ciclo de liga-desliga demora 970 [ms]
